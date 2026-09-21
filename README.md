@@ -7,7 +7,7 @@ The following report contains an analysis of weather data to deduce suitability 
 #==================================================================================#
 #====================================CONTENT=======================================#
 
-The file contains an overall report of the analysis, the weather data to the cities, the analysis code and the figures of the plots made during analysis.
+The file contains the milestone-by-milestone reports of the analysis, the weather data to the cities, the analysis codes of each milestone, and the figures of the plots made during analysis.
 
 
 #==================================================================================#
@@ -35,3 +35,8 @@ The analysis is to find the most suitable location to set up a new Temperature-C
 You may need to set up a kernel to run the file within your code editor. Just select on 'New Kernel' and then select the Venv kernel which pops up.
 
 7. Run all code blocks to replicate the analysis.
+
+
+#==================================================================================#
+#======================================NOTE========================================#
+The Milestone 3 code and reports contain all the information on the previous two milestones, so it's only really needed to install the report and the code of the third milestone.
