@@ -1,5 +1,5 @@
 #==========================================================================#
-#============================================================PREFACE=================================================================#
+#===================================PREFACE========================================#
 
 The following report contains an analysis of weather data to deduce suitability to establish a temperature-controlled storage unit to store temperature-sensitive products between the cities of Braganca and Viseu in Portugal.
 
